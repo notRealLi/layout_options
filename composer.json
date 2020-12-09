@@ -1,5 +1,5 @@
 {
-	"name" : "opin/layout_options",
+	"name" : "drupal/layout_options",
 	"type" : "drupal-module",
 	"description" : "Layout Options - Configuration options thru Yaml files",
 	"homepage" : "https://www.drupal.org/project/layout_options",
